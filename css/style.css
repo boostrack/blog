@@ -1,0 +1,157 @@
+.post h1 {
+}
+.post h2 {
+}
+.post h3 {
+    font-weight: bold;
+    font-size: 150%;
+}
+.post h4 {
+    font-weight: bold;
+    font-size: 125%;
+}
+.post h5 {
+    font-weight: bold;
+}
+
+section#header-container {
+  height: 300px;
+  background-image: url('/img/bg_texture2_72px.jpg');
+}
+
+section#header-container img.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 39px;
+}
+
+article {
+  margin: 42px 0 0;
+  position: relative;
+  width: 666px;
+  background-color: white;
+  border-radius: 5px 5px 5px 5px;
+  -webkit-box-shadow: 3px 3px #cfcfcf;
+  -moz-box-shadow: 3px 3px #cfcfcf;;
+  box-shadow: 3px 3px #cfcfcf;;
+  padding: 32px;
+  font-size: 15px;
+}
+
+article header {
+  margin: -74px 0 0 -32px;
+  position: absolute;
+
+  margin: -110px 0 20px -28px;
+  position: relative;
+
+}
+
+article header .entry-title {
+  margin: 0;
+  min-height: 3em;
+  line-height: 1.5em;
+}
+
+article header .entry-title a {
+  color: #000000;
+}
+
+article .post_info {
+  line-height: 15px;
+  border-bottom: 4px solid #bbbdbf;
+  padding-bottom: 8px;
+  color: #000000
+}
+
+article .post_info address,
+article .post_info abbr {
+  font-size: 13px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+article .post_info .byline {
+  font-size: 12px;
+  float: right;
+  font-style: italic;
+}
+
+article .post_info .author {
+  font-style: normal;
+  display: inline;
+}
+
+article .post_info .published {
+  border: none;
+}
+
+article code {
+  font-size: 12px;
+}
+
+
+section.entry-content {
+  margin: 32px 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+article h1 {
+  font-size: 32px;
+  line-height: 33px;
+}
+
+article a {
+  color: #78a22f;
+  padding: 0 1px;
+}
+
+article a:hover {
+	text-decoration: underline;
+}
+
+article h1 a {
+  color: #333;
+  font-weight: bold;
+  letter-spacing: 1px;;
+}
+
+article .post_meta {
+  border-top: 1px solid #666;
+}
+
+article .post_meta ul {
+  margin: 0;
+  padding: 4px 0 0;
+}
+
+article .post_meta ul li {
+  float: left;
+}
+
+article .post_meta .tags {
+  float: left;
+  line-height: 20px;
+  text-transform: lowercase;
+  letter-spacing: 1px;
+}
+
+article .post_meta .tags li {
+  margin-right: 4px;
+}
+
+article .post_meta .tags span {
+  color: #78a22f;
+}
+
+article .post_meta .social_sharing {
+  float: right;
+}
+
+article .post_meta .social_sharing li {
+  margin-left: 4px;
+}

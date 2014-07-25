@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Boostrack Blog</title>
+		<description>Boostrack Blog</description>
+		<link>/</link>
+		<atom:link href="//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Google Cloud Platform - Kubernetes</title>
+				<description>&lt;p&gt;We released our &lt;a href=&quot;https://www.balancedpayments.com/push-to-card&quot;&gt;Push to Card&lt;/a&gt;
+API a few weeks ago to allow marketplaces to send money to a customer’s checking
+account using a debit card number. Starting today, Balanced now supports
+instant payouts to 50% of bank accounts in the U.S. using the same API and debit
+card number. We’re working on bringing instant payouts to over 70% of debit card
+users in the U.S. in the coming weeks.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-does-instant-mean&quot;&gt;What does “instant” mean?&lt;/h3&gt;
+
+&lt;p&gt;The money will be available in a customer’s bank account within seconds. By
+available, I mean the customer will see an increase in their Available Balance
+and be able to spend the money within seconds of the payout. The payout is
+instant even during evenings, weekends, and holidays.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-does-balanced-make-instant-transfers&quot;&gt;How does Balanced make instant transfers?&lt;/h3&gt;
+
+&lt;p&gt;We currently partner with the ATM networks NYCE, Pulse, STAR, and SHAZAM. Those
+networks allow us to move money instantly to bank accounts at 4,500
+banks—including TD Bank, PNC Bank, Capital One, Fifth Third, RBS Citizens,
+and Comerica. We’re working hard to partner with more networks to improve our
+coverage.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-does-instant-matter&quot;&gt;Why does instant matter?&lt;/h3&gt;
+
+&lt;p&gt;There’s a delay from when a marketplace issues a payout to when the money shows up
+in a customer’s bank account. We affectionately refer to the period during the delay
+as “the black hole of payments”. It’s the stressful period where a marketplace
+and their customer is left wondering, “Where’s my money!?” We’ve tried to reduce
+the size of the black hole and provide more transparency into it, but we want to
+eliminate the black hole altogether. We’re now 50% of the way there.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-else-does-this-matter&quot;&gt;Why else does this matter?&lt;/h3&gt;
+
+&lt;p&gt;We’ve seen marketplaces where more than half of the sellers on the marketplace
+are also buyers on the same marketplace. If you sell a handbag, you may want to
+use that same money to buy a dress. Paying a customer using their debit card
+means the customer can use the same debit card on file to make a purchase.&lt;/p&gt;
+
+&lt;p&gt;We fell in love with marketplaces because we believe marketplaces enable new
+commerce, and we want to eliminate the awkwardness and friction in payments.
+Instant payouts takes us one step closer to that goal.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 25 Jun 2014 00:00:00 +0200</pubDate>
+				<link>//GCP-kubernetes</link>
+				<guid isPermaLink="true">//GCP-kubernetes</guid>
+			</item>
+		
+			<item>
+				<title>dotCloud - Docker</title>
+				<description>&lt;p&gt;We released our &lt;a href=&quot;https://www.balancedpayments.com/push-to-card&quot;&gt;Push to Card&lt;/a&gt;
+API a few weeks ago to allow marketplaces to send money to a customer’s checking
+account using a debit card number. Starting today, Balanced now supports
+instant payouts to 50% of bank accounts in the U.S. using the same API and debit
+card number. We’re working on bringing instant payouts to over 70% of debit card
+users in the U.S. in the coming weeks.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-does-instant-mean&quot;&gt;What does “instant” mean?&lt;/h3&gt;
+
+&lt;p&gt;The money will be available in a customer’s bank account within seconds. By
+available, I mean the customer will see an increase in their Available Balance
+and be able to spend the money within seconds of the payout. The payout is
+instant even during evenings, weekends, and holidays.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-does-balanced-make-instant-transfers&quot;&gt;How does Balanced make instant transfers?&lt;/h3&gt;
+
+&lt;p&gt;We currently partner with the ATM networks NYCE, Pulse, STAR, and SHAZAM. Those
+networks allow us to move money instantly to bank accounts at 4,500
+banks—including TD Bank, PNC Bank, Capital One, Fifth Third, RBS Citizens,
+and Comerica. We’re working hard to partner with more networks to improve our
+coverage.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-does-instant-matter&quot;&gt;Why does instant matter?&lt;/h3&gt;
+
+&lt;p&gt;There’s a delay from when a marketplace issues a payout to when the money shows up
+in a customer’s bank account. We affectionately refer to the period during the delay
+as “the black hole of payments”. It’s the stressful period where a marketplace
+and their customer is left wondering, “Where’s my money!?” We’ve tried to reduce
+the size of the black hole and provide more transparency into it, but we want to
+eliminate the black hole altogether. We’re now 50% of the way there.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-else-does-this-matter&quot;&gt;Why else does this matter?&lt;/h3&gt;
+
+&lt;p&gt;We’ve seen marketplaces where more than half of the sellers on the marketplace
+are also buyers on the same marketplace. If you sell a handbag, you may want to
+use that same money to buy a dress. Paying a customer using their debit card
+means the customer can use the same debit card on file to make a purchase.&lt;/p&gt;
+
+&lt;p&gt;We fell in love with marketplaces because we believe marketplaces enable new
+commerce, and we want to eliminate the awkwardness and friction in payments.
+Instant payouts takes us one step closer to that goal.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 24 Jun 2014 00:00:00 +0200</pubDate>
+				<link>//dotCloud-doker</link>
+				<guid isPermaLink="true">//dotCloud-doker</guid>
+			</item>
+		
+			<item>
+				<title>Cloudfoundry - Diego</title>
+				<description>&lt;p&gt;We released our &lt;a href=&quot;https://www.balancedpayments.com/push-to-card&quot;&gt;Push to Card&lt;/a&gt;
+API a few weeks ago to allow marketplaces to send money to a customer’s checking
+account using a debit card number. Starting today, Balanced now supports
+instant payouts to 50% of bank accounts in the U.S. using the same API and debit
+card number. We’re working on bringing instant payouts to over 70% of debit card
+users in the U.S. in the coming weeks.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-does-instant-mean&quot;&gt;What does “instant” mean?&lt;/h3&gt;
+
+&lt;p&gt;The money will be available in a customer’s bank account within seconds. By
+available, I mean the customer will see an increase in their Available Balance
+and be able to spend the money within seconds of the payout. The payout is
+instant even during evenings, weekends, and holidays.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-does-balanced-make-instant-transfers&quot;&gt;How does Balanced make instant transfers?&lt;/h3&gt;
+
+&lt;p&gt;We currently partner with the ATM networks NYCE, Pulse, STAR, and SHAZAM. Those
+networks allow us to move money instantly to bank accounts at 4,500
+banks—including TD Bank, PNC Bank, Capital One, Fifth Third, RBS Citizens,
+and Comerica. We’re working hard to partner with more networks to improve our
+coverage.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-does-instant-matter&quot;&gt;Why does instant matter?&lt;/h3&gt;
+
+&lt;p&gt;There’s a delay from when a marketplace issues a payout to when the money shows up
+in a customer’s bank account. We affectionately refer to the period during the delay
+as “the black hole of payments”. It’s the stressful period where a marketplace
+and their customer is left wondering, “Where’s my money!?” We’ve tried to reduce
+the size of the black hole and provide more transparency into it, but we want to
+eliminate the black hole altogether. We’re now 50% of the way there.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-else-does-this-matter&quot;&gt;Why else does this matter?&lt;/h3&gt;
+
+&lt;p&gt;We’ve seen marketplaces where more than half of the sellers on the marketplace
+are also buyers on the same marketplace. If you sell a handbag, you may want to
+use that same money to buy a dress. Paying a customer using their debit card
+means the customer can use the same debit card on file to make a purchase.&lt;/p&gt;
+
+&lt;p&gt;We fell in love with marketplaces because we believe marketplaces enable new
+commerce, and we want to eliminate the awkwardness and friction in payments.
+Instant payouts takes us one step closer to that goal.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 23 Jun 2014 00:00:00 +0200</pubDate>
+				<link>//cf-diego</link>
+				<guid isPermaLink="true">//cf-diego</guid>
+			</item>
+		
+	</channel>
+</rss>
