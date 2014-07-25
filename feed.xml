@@ -3,8 +3,8 @@
 	<channel>
 		<title>Boostrack Blog</title>
 		<description>Boostrack Blog</description>
-		<link>/</link>
-		<atom:link href="//feed.xml" rel="self" type="application/rss+xml" />
+		<link>/blog</link>
+		<atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Google Cloud Platform - Kubernetes</title>
@@ -51,8 +51,8 @@ commerce, and we want to eliminate the awkwardness and friction in payments.
 Instant payouts takes us one step closer to that goal.&lt;/p&gt;
 </description>
 				<pubDate>Wed, 25 Jun 2014 00:00:00 +0200</pubDate>
-				<link>//GCP-kubernetes</link>
-				<guid isPermaLink="true">//GCP-kubernetes</guid>
+				<link>/blog/GCP-kubernetes</link>
+				<guid isPermaLink="true">/blog/GCP-kubernetes</guid>
 			</item>
 		
 			<item>
@@ -100,8 +100,8 @@ commerce, and we want to eliminate the awkwardness and friction in payments.
 Instant payouts takes us one step closer to that goal.&lt;/p&gt;
 </description>
 				<pubDate>Tue, 24 Jun 2014 00:00:00 +0200</pubDate>
-				<link>//dotCloud-doker</link>
-				<guid isPermaLink="true">//dotCloud-doker</guid>
+				<link>/blog/dotCloud-doker</link>
+				<guid isPermaLink="true">/blog/dotCloud-doker</guid>
 			</item>
 		
 			<item>
@@ -149,8 +149,8 @@ commerce, and we want to eliminate the awkwardness and friction in payments.
 Instant payouts takes us one step closer to that goal.&lt;/p&gt;
 </description>
 				<pubDate>Mon, 23 Jun 2014 00:00:00 +0200</pubDate>
-				<link>//cf-diego</link>
-				<guid isPermaLink="true">//cf-diego</guid>
+				<link>/blog/cf-diego</link>
+				<guid isPermaLink="true">/blog/cf-diego</guid>
 			</item>
 		
 	</channel>
